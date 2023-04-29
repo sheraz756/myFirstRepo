@@ -1,0 +1,33 @@
+.main{
+    height: 100vh;
+    color: white !important;
+    font-size: 20px;
+}
+.formBox{
+    width: 500px;
+    /* height: 600px; */
+    background-color: rgb(144, 69, 214);
+}
+body{
+    background-color: rgb(221, 221, 221);
+    
+}
+.thead{
+    background-color: aliceblue !important;
+}
+
+input{
+    width: 100%;
+    height: 50px;
+    border: 0;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: rgb(66, 66, 66) !important;
+    font-weight: 600;
+}
+input:focus{
+    outline:0 ;
+}
+tr{
+    margin: 10px 0 !important;
+}
